@@ -2,6 +2,9 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+/*
+    This is my test comment due to check the migrate repository from github to own hosted gitlab
+ */
 class App extends Component {
   render() {
     return (
